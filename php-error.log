@@ -1,0 +1,35 @@
+[10-Jan-2025 18:35:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp2\htdocs\toko\riwayat.php:99
+Stack trace:
+#0 C:\xampp2\htdocs\toko\riwayat.php(99): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\toko\riwayat.php on line 99
+[10-Jan-2025 18:52:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp2\htdocs\toko\riwayat.php:102
+Stack trace:
+#0 C:\xampp2\htdocs\toko\riwayat.php(102): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\toko\riwayat.php on line 102
+[10-Jan-2025 20:57:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp2\htdocs\toko\riwayat.php:102
+Stack trace:
+#0 C:\xampp2\htdocs\toko\riwayat.php(102): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\toko\riwayat.php on line 102
+[10-Jan-2025 22:34:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp2\htdocs\toko\riwayat.php:102
+Stack trace:
+#0 C:\xampp2\htdocs\toko\riwayat.php(102): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\toko\riwayat.php on line 102
+[10-Jan-2025 22:41:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp2\htdocs\toko\riwayat.php:102
+Stack trace:
+#0 C:\xampp2\htdocs\toko\riwayat.php(102): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\toko\riwayat.php on line 102
+[10-Jan-2025 22:45:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp2\htdocs\toko\riwayat.php:102
+Stack trace:
+#0 C:\xampp2\htdocs\toko\riwayat.php(102): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\toko\riwayat.php on line 102
+[14-May-2025 03:53:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\toko\riwayat.php:103
+Stack trace:
+#0 C:\xampp\htdocs\toko\riwayat.php(103): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\toko\riwayat.php on line 103
